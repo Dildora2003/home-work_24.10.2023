@@ -624,6 +624,9 @@ footer {
 
     line-height: 25px;
   }
+  .btn1 {
+    padding: 1rem 1.7rem;
+  }
 
   .fayl {
     flex-direction: column;
